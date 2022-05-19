@@ -1,1 +1,1 @@
-Este repositorio é meu o primeiro repositorio no GitHub
+Este repositorio é o meu primeiro repositorio no GitHub
